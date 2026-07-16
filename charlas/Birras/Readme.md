@@ -4,4 +4,4 @@ Encuentros informales donde discutimos sobre infraestructura, cloud computing, n
 
 # Busca las charlas aca por carpeta
 
-Fecha,nombre charla
+Fecha,nombre charla.
